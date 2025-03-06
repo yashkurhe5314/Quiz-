@@ -15,3 +15,5 @@ HTML, CSS, JavaScript
 1. Open the quiz in your browser
 2. Answer all four questions
 3. Get instant feedback and see your final score
+
+🔗 Live Demo (https://yashkurhe5314.github.io/Quiz-/)
